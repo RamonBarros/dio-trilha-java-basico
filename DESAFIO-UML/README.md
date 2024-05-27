@@ -3,10 +3,6 @@
 ## Iphone
 - Atributos
   - (não há atributos)
-- Métodos
-  - `tocar()`
-  - `pausar()`
-  - `selecionarMusica(musica: String)`
 
 ## ReprodutorMusical
 - Atributos
